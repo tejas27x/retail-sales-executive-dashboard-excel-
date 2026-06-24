@@ -10,7 +10,7 @@ The project focuses on transforming raw sales data into meaningful business insi
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.jpg)
 
 ---
 
