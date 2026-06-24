@@ -138,7 +138,7 @@ Through this project, I improved my skills in:
 
 ## Excel Certificate
 
-![Excel Certificate](images/excel_certificate.png)
+![Excel Certificate](excel_certificate.png)
 
 ---
 
