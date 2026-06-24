@@ -149,3 +149,4 @@ Through this project, I improved my skills in:
 Aspiring Data Analyst | Computer Engineering Student
 
 Connect with me on LinkedIn and feel free to share feedback on the project.
+🔗 LinkedIn: https://www.linkedin.com/in/tejas-nathe-748b4b282
